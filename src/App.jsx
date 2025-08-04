@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import Product from './componets/Product'
+import Details from './componets/Details'
 function App() {
 
   return (
     <> 
-      <Product/>
+    <Details/>
     </>
   )
 }
